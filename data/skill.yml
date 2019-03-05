@@ -1,0 +1,27 @@
+enable : true
+heading : Product
+headingSpan : Pipelines
+title : We’ve identified drug candidates that show efficacy during clinical trials.
+content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+image : images/about/company-growth.png
+skillItem :
+  - itemNumber : GW1-
+    itemName :  prevent NIHL
+    itemPercent : 90%
+    
+  - itemNumber : GW2-
+    itemName :  prevent NIHL
+    itemPercent : 70%
+    
+  - itemNumber : GW3-
+    itemName :  prevent NIHL, Cisplatin induced hearing loss, Cure tinnitus
+
+    itemPercent : 70%
+    
+  - itemNumber : GW5-
+    itemName :  Ototoxity for Solid Tumors
+    itemPercent : 35%
+    
+  - itemNumber : GW6-
+    itemName :  NIHL
+    itemPercent : 35%

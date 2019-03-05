@@ -1,0 +1,20 @@
+enable : true
+heading : Our
+headingSpan : Solutions
+serviceItem :
+  - icon : tf-globe
+    title : Drug Repurposing
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-ion-laptop
+    title : New Drug Development
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+       
+  - icon : tf-genius
+    title : Gene Therapy
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+        
+ 
+  - icon : tf-target3
+    title : New Detection Methods
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
