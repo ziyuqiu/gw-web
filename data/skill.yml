@@ -7,21 +7,21 @@ image : images/about/company-growth.png
 skillItem :
   - itemNumber : GW1-
     itemName :  prevent NIHL
-    itemPercent : 90%
+    itemPercent : 75%
     
   - itemNumber : GW2-
     itemName :  prevent NIHL
-    itemPercent : 70%
+    itemPercent : 50%
     
   - itemNumber : GW3-
     itemName :  prevent NIHL, Cisplatin induced hearing loss, Cure tinnitus
 
-    itemPercent : 70%
+    itemPercent : 50%
     
   - itemNumber : GW5-
     itemName :  Ototoxity for Solid Tumors
-    itemPercent : 35%
+    itemPercent : 25%
     
   - itemNumber : GW6-
     itemName :  NIHL
-    itemPercent : 35%
+    itemPercent : 25%
