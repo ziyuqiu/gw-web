@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Gateway Biotechnology Inc.</title>
-    <link>http://ziyuqiu.github.io/gw-web/author/</link>
+    <link>https://ziyuqiu.github.io/gw-web/author/</link>
     <description>Recent content in Author on Gateway Biotechnology Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     
-	<atom:link href="http://ziyuqiu.github.io/gw-web/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ziyuqiu.github.io/gw-web/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://ziyuqiu.github.io/gw-web/author/jamica-jock/</link>
+      <link>https://ziyuqiu.github.io/gw-web/author/jamica-jock/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>http://ziyuqiu.github.io/gw-web/author/jamica-jock/</guid>
+      <guid>https://ziyuqiu.github.io/gw-web/author/jamica-jock/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu. Vivamus id hendrerit dui, in elementum ante. Aenean euismod ipsum sed sagittis accumsan. Ut ultrices tincidunt viverra. Mauris eu nisl urna. Proin finibus feugiat tortor ut interdum. Curabitur.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://ziyuqiu.github.io/gw-web/author/john-doe/</link>
+      <link>https://ziyuqiu.github.io/gw-web/author/john-doe/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>http://ziyuqiu.github.io/gw-web/author/john-doe/</guid>
+      <guid>https://ziyuqiu.github.io/gw-web/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar turpis ac est vulputate egestas at vitae nunc. Praesent vestibulum nulla at ligula rutrum, quis cursus tellus tempus. Proin faucibus dapibus auctor. Mauris faucibus imperdiet metus, eget consectetur eros porttitor.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://ziyuqiu.github.io/gw-web/author/somrat/</link>
+      <link>https://ziyuqiu.github.io/gw-web/author/somrat/</link>
       <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
       
-      <guid>http://ziyuqiu.github.io/gw-web/author/somrat/</guid>
+      <guid>https://ziyuqiu.github.io/gw-web/author/somrat/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
     </item>
     
