@@ -8,10 +8,24 @@ filterList :
   - filterType : c
     filterTitle : Company
     
-  # - filterType : development
-  #   filterTitle : Development
+  - filterType : f
+    filterTitle : Funders
 
 portfolioItem :
+  - types : f
+    image : images/partners/Army.png
+    icon : tf-ion-android-search
+    URL : #
+    title : The US Army
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+
+  - types : f
+    image : images/partners/NIH.png
+    icon : tf-ion-android-search
+    URL : #
+    title : NIH
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+
   - types : u
     image : images/partners/Harvard.png
     icon : tf-ion-android-search

@@ -1,13 +1,13 @@
 enable : true
 image : images/about/about-business-man.jpg
 title : We’re A Biotech R&D Company.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+description : Nearly 40 million Americans have some degree of hearing loss. Devices are available to protect against noise but they are not always effective, can be impractical to use, and cannot help people with age-related or drug-induced hearing loss.
+description2 : Since 2011, Gateway has taken a science-based approach. We focus on drug repurposing – a cost-effective strategy – to prevent or treat hearing disorders with a short development cycle. FDA-approved drugs and herbal medicines have been studied extensively for safety in humans and abundant pharmacological information is already available.
 aboutItem : 
-  - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  # - icon : tf-circle-compass
+  #   title : SEO Optimized
+  #   content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
     
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  # - icon : tf-hotairballoon
+  #   title : Easy Customization
+  #   content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

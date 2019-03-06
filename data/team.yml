@@ -3,7 +3,7 @@ heading : Our
 headingSpan : Team
 teamMember :
   - image : images/team/Jianxin_Bao.JPG
-    name : Jianxin Bao
+    name : Jianxin Bao, Ph.D.
     designation : CEO/Founder
     description : Director of TRC at NEOMED, Prev. tenure Associate Professor at WUSTL, received 30+ million funding
     socialIcon :
@@ -17,7 +17,7 @@ teamMember :
         url : "#"
       
   - image : images/team/Richard_Chole.jpg
-    name : Richard Chole
+    name : Richard Chole, M.D., Ph.D
     designation : CSO/Co-founder
     description : Retired ENT chair at WUSTL, Father of the 1st animal model on tinnitus
     socialIcon :
@@ -31,7 +31,7 @@ teamMember :
         url : "#"
       
   - image : images/team/Philip_Perez.jpg
-    name : Philip Perez
+    name : Philip Perez, M.D.
     designation : CMO/Co-founder
     description : Harvard undergrad, WUSTL Med School, UCSF residency
     socialIcon :
