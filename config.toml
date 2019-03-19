@@ -24,14 +24,19 @@ publishDir = "docs"
     weight = 3
 
     [[menu.nav]]
-    name = "Partners"
-    URL = "portfolio"
+    name = "Product"
+    URL = "team-skills"
     weight = 4
 
     [[menu.nav]]
     name = "Team"
     URL = "our-team"
     weight = 5
+
+    [[menu.nav]]
+    name = "Partners"
+    URL = "portfolio"
+    weight = 6
 
     [[menu.nav]]
     name = "Blog"
