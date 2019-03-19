@@ -1,8 +1,8 @@
 enable : true
-image : images/about/about-business-man.jpg
+image : images/slider/Arc.png
 title : We’re A Biotech R&D Company.
-description : Nearly 40 million Americans have some degree of hearing loss. Devices are available to protect against noise but they are not always effective, can be impractical to use, and cannot help people with age-related or drug-induced hearing loss.
-description2 : Since 2011, Gateway has taken a science-based approach. We focus on drug repurposing – a cost-effective strategy – to prevent or treat hearing disorders with a short development cycle. FDA-approved drugs and herbal medicines have been studied extensively for safety in humans and abundant pharmacological information is already available.
+description : Over 1.5 billion people worldwide suffer from hearing disorders, including hearing loss due to aging or noise exposure. In the U.S. alone, hearing disorders affect 38 million Americans, and noise-induced hearing loss (NIHL) is the number one occupational and recreational hazard identified by the National Institute for Occupational Safety and Health. Currently, there are no drugs approved by the US Food and Drug Administration (FDA) on the market for hearing loss prevention or treatment.
+description2 : With a decade of translational research funded by NIH, Gateway Biotechnology has been developing repurposed drug candidates with proven safety records to combat NIHL and other hearing disorders. Our innovative approach, grounded in a deep understanding of drug action, targets multiple cellular pathways simultaneously and focuses on new product formulations that fine-tune drug delivery to the ear, taking advantage of pharmacologic synergy to optimize treatment efficacy and minimize side effects.
 aboutItem : 
   # - icon : tf-circle-compass
   #   title : SEO Optimized

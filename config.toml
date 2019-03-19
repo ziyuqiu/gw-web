@@ -58,7 +58,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/Hearing.jpg"
     logo = "images/logos.logo.png"
     icon = "tf-ion-play"
     heading = "Gateway Biotech"
