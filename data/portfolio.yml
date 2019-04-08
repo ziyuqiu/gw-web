@@ -17,67 +17,67 @@ portfolioItem :
     icon : tf-ion-android-search
     URL : #
     title : The US Army
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Exclusive contract on Pharmaceutical Interventions for NIHL - Acute Exposure Treatment.
 
   - types : f
     image : images/partners/NIH.png
     icon : tf-ion-android-search
     URL : #
     title : NIH
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : 7 SBIR/STTR awards granted by NIH in the past 5 years.
 
   - types : u
     image : images/partners/Harvard.png
     icon : tf-ion-android-search
     URL : #
     title : Harvard University
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on AAV Gene Therapy research.
     
   - types : u
     image : images/partners/WUSTL.png
     icon : tf-ion-android-search
     URL : #
     title : Washingtong University in St. Louis
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on an unique patient population for clinical trials  against NIHL.
     
   - types : u
     image : images/partners/Ohio.png
     icon : tf-ion-android-search
     URL : #
     title : Ohio State University
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on new cispatin-based drug combination with reduced ototoxicity.
     
   - types : u
     image : images/partners/NEOMED.png
     icon : tf-ion-android-search
     URL : #
     title : Northeast Ohio Medical University
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on two-drug combination therapy for NIHL.
     
   - types : u
     image : images/partners/Buffalo.png
     icon : tf-ion-android-search
     URL : #
     title : The State University of New York at Buffalo
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on nutraceutical product against NIHL.
     
   - types : u
     image : images/partners/Akron.png
     icon : tf-ion-android-search
     URL : #
     title : The University of Akron
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on PINIHL-AET.
     
   - types : u
     image : images/partners/UTDallas.png
     icon : tf-ion-android-search
     URL : #
     title : The University of Texas at Dallas
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on PINIHL-AET.
     
   - types : c
     image : images/partners/vivosonic.png
     icon : tf-ion-android-search
     URL : #
     title : Vivosonic
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Collaboration on an unique patient population for clinical trials  against NIHL.
