@@ -1,8 +1,8 @@
 enable : true
 image : images/slider/Arc.png
 title : We’re A Biotech R&D Company.
-description : Over 1.5 billion people worldwide suffer from hearing disorders, including hearing loss due to aging or noise exposure. In the U.S. alone, hearing disorders affect 38 million Americans, and noise-induced hearing loss (NIHL) is the number one occupational and recreational hazard identified by the National Institute for Occupational Safety and Health. Currently, there are no drugs approved by the US Food and Drug Administration (FDA) on the market for hearing loss prevention or treatment.
-description2 : With a decade of translational research funded by NIH, Gateway Biotechnology has been developing repurposed drug candidates with proven safety records to combat NIHL and other hearing disorders. Our innovative approach, grounded in a deep understanding of drug action, targets multiple cellular pathways simultaneously and focuses on new product formulations that fine-tune drug delivery to the ear, taking advantage of pharmacologic synergy to optimize treatment efficacy and minimize side effects.
+description : Over 1.5 billion people worldwide suffer from hearing disorders, including hearing loss due to aging or noise exposure (NIHL or ARHL). In the U.S. alone, hearing disorders affect 38 million Americans, and noise-induced hearing loss (NIHL) is the number one occupational and recreational hazard identified by the National Institute for Occupational Safety and Health. Currently, there are no drugs approved by the US Food and Drug Administration (FDA) on the market for hearing loss prevention or treatment of hearing loss.
+description2 : With a decade of translational research funded by National Institutes of Health (NIH), Gateway Biotechnology has been developing drug candidates with proven safety records to combat hearing disorders. Our innovative approach, grounded in a deep understanding of basic mechanisms underlying hearing loss, targets multiple cellular pathways with new product formulations that fine-tune drug delivery to the ear.
 aboutItem : 
   # - icon : tf-circle-compass
   #   title : SEO Optimized

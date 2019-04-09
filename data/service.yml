@@ -4,7 +4,7 @@ headingSpan : Solutions
 serviceItem :
   - icon : tf-globe
     title : Drug Repurposing
-    content : Developing repurposed drug candidates with proven safety records make us time-efficient and cost-effective.
+    content : Developing  drug candidates with proven safety records make us time-efficient and cost-effective.
 
   - icon : tf-ion-laptop
     title : New Drug Development
@@ -12,9 +12,9 @@ serviceItem :
        
   - icon : tf-genius
     title : Gene Therapy
-    content : Researching on an avant-garde Adeno-Associated Virus (AAV)-based tool for targeted gene therapy against hearing loss.
+    content : Researching on new Adeno-Associated Virus (AAV)-based tools for novel gene therapy against hearing loss.
         
  
   - icon : tf-target3
     title : New Detection Methods
-    content : Utilizing AI (Artificial Intelligence) technology to create innovative methods to detect hidden hearing loss.
+    content : Utilizing Artificial Intelligence (AI) technology to create innovative methods to detect early signs of hearing disorders.
