@@ -40,7 +40,7 @@ require 'phpmailer/SMTP.php';
     $mail->setFrom('sender@server.net', 'Your Name');
     //Send the message to yourself, or whoever should receive contact for submissions
 
-    $mail->addAddress('testsendmail@greenant.net', 'Your Name');
+    $mail->addAddress('aqiu@gatewaybiotechnology.com', 'Andrea');
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
