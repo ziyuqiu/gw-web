@@ -1,7 +1,7 @@
 ---
 title: "With the Joys of Summer Comes the Noise of Summer..."
-date: 2019-03-25T21:06:40-04:00
-image: images/blog/blog-post-2.jpg
+date: 2018-06-08 T21:06:40-04:00
+image: images/blog/blog-2.jpg
 arthur: John W. Hawks, Ph.D., CCC-A
 ---
 

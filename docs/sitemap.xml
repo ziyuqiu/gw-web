@@ -3,27 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ziyuqiu.github.io/gw-web/blog/with-the-joys-of-summer-comes-the-noise-of-summer/</loc>
-    <lastmod>2019-03-25T21:06:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ziyuqiu.github.io/gw-web/blog/are-you-doing-the-right-way/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ziyuqiu.github.io/gw-web/blog/noise-the-not-so-silent-health-hazard/</loc>
-    <lastmod>2018-06-22T21:01:57-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ziyuqiu.github.io/gw-web/author/jamica-jock/</loc>
   </url>
   
   <url>
     <loc>https://ziyuqiu.github.io/gw-web/author/john-doe/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
@@ -32,13 +16,11 @@
   
   <url>
     <loc>https://ziyuqiu.github.io/gw-web/author/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ziyuqiu.github.io/gw-web/blog/</loc>
-    <lastmod>2019-03-25T21:06:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,14 +30,25 @@
   </url>
   
   <url>
+    <loc>https://ziyuqiu.github.io/gw-web/blog/debinking-eight-myths-about-hearing-loss/</loc>
+  </url>
+  
+  <url>
     <loc>https://ziyuqiu.github.io/gw-web/</loc>
-    <lastmod>2019-03-25T21:06:40-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ziyuqiu.github.io/gw-web/blog/noise-the-not-so-silent-health-hazard/</loc>
   </url>
   
   <url>
     <loc>https://ziyuqiu.github.io/gw-web/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ziyuqiu.github.io/gw-web/blog/with-the-joys-of-summer-comes-the-noise-of-summer/</loc>
   </url>
   
 </urlset>

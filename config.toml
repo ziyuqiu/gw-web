@@ -63,11 +63,11 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/Arch_day.jpeg"
+    bgImage = "images/slider/Blurred_arc_day.png"
     logo = "images/logos/logo.png"
     icon = "tf-ion-play"
     heading = "Gateway Biotech"
-    content= "New Solutions for Hearing Disorders"
+    content= "Science-based Solutions to Hearing Disorders"
     btn = true
     btnText="Explore Us"
     btnURL="#services"

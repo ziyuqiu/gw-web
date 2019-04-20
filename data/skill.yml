@@ -1,8 +1,8 @@
 enable : true
 heading : Product
 headingSpan : Pipelines
-title : We’ve identified drug candidates that show efficacy during preclinical studies.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+title : Established a robust pipeline for science-based solutions to hearing disorders.
+content : We have developed animal model systems for pre-clinical trials of drug candidates and have advanced our leading drug candidate to a clinical Phase II trial. NIH-supported research is now enabling us to move additional candidates through our discovery pipeline.
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : GW1-
