@@ -2,14 +2,14 @@ enable : true
 heading : About
 headingSpan : Us
 aboutItem : 
-- icon : tf-tools
+- icon : tf-ion-ios-people
   title : 36 Million
   content : people in the US are suffering from hearing disorders
 
-- icon : tf-strategy
+- icon : tf-ion-social-bitcoin
   title : $ 422.9 Million
-  content : Potential US market in for noise-induced hearing loss(NIHL) alone
+  content : Potential U.S. market for noise-induced hearing loss(NIHL) alone
 
-- icon : tf-anchor2
+- icon : tf-ion-ios-gear
   title : Zero
   content : Effective therapies/ FDA-approved drugs for hearing loss / tinnitus

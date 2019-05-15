@@ -24,7 +24,7 @@ publishDir = "docs"
     weight = 3
 
     [[menu.nav]]
-    name = "Product"
+    name = "Products"
     URL = "team-skills"
     weight = 4
 
@@ -33,20 +33,20 @@ publishDir = "docs"
     URL = "our-team"
     weight = 5
 
-    [[menu.nav]]
-    name = "Partners"
-    URL = "portfolio"
-    weight = 6
+#    [[menu.nav]]
+#    name = "Partners"
+#    URL = "portfolio"
+#    weight = 6
 
     [[menu.nav]]
     name = "Blog"
     URL = "blog"
-    weight = 7
+    weight = 6
 
     [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 8
+    weight = 7
 
 # Site params
 [params]
@@ -66,10 +66,10 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/Arch_day.jpeg"
     logo = "images/logos/logo.png"
     icon = "tf-ion-play"
-    heading = "Gateway Biotech"
+    heading = "Gateway Biotechnology, Inc."
     content= "Science-based Solutions to Hearing Disorders"
     btn = true
-    btnText="Explore Us"
+    btnText="Learn More"
     btnURL="#services"
 
     # call to action
@@ -86,7 +86,7 @@ custom_css = ["css/custom.css"]
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Patents Filed"
-        icon = "tf-ion-android-happy"
+        icon = "tf-ion-document-text"
         count = "2"
 
         [[params.counter.counterItem]]
@@ -96,7 +96,7 @@ custom_css = ["css/custom.css"]
 
         [[params.counter.counterItem]]
         title = "SBIR/STTR Grants"
-        icon = "tf-ion-thumbsup"
+        icon = "tf-ion-ribbon-b"
         count = "7"
 
     # footer
