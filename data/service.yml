@@ -1,6 +1,6 @@
 enable : true
 heading : Our
-headingSpan : Solutions
+headingSpan : Strategy
 serviceItem :
   - icon : tf-globe
     title : Drug Repurposing

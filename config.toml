@@ -14,12 +14,12 @@ publishDir = "docs"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "About"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Solution"
+    name = "Strategy"
     URL = "services"
     weight = 3
 
@@ -63,7 +63,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/Arch_day.jpeg"
+    bgImage = "images/slider/arch-light.jpg"
     logo = "images/logos/logo.png"
     icon = "tf-ion-play"
     heading = "Gateway Biotechnology, Inc."
