@@ -1,27 +1,23 @@
 enable : true
 heading : Product
 headingSpan : Pipelines
-title : Established a robust pipeline for science-based solutions to hearing disorders.
-content : We have developed animal model systems for pre-clinical trials of drug candidates and have advanced our leading drug candidate to a clinical Phase II trial. NIH-supported research is now enabling us to move additional candidates through our discovery pipeline.
+title : Robust pipeline for science-based solutions to hearing disorders
+content : We have developed animal model systems for pre-clinical trials of drug candidates and have advanced our leading drug candidate to a clinical Phase II trial with the US Army. NIH-supported research is now enabling us to move additional candidates through our discovery pipeline.
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : GW1-
     itemName :  prevent NIHL
     itemPercent : 75%
     
-  - itemNumber : GW2-
+  - itemNumber : GW1+GW2-
     itemName :  prevent NIHL
-    itemPercent : 50%
+    itemPercent : 48%
     
   - itemNumber : GW3-
-    itemName :  prevent NIHL, Cisplatin induced hearing loss, Cure tinnitus
+    itemName :  prevent NIHL
 
-    itemPercent : 50%
+    itemPercent : 48%
     
-  - itemNumber : GW5-
+  - itemNumber : GW3-
     itemName :  Ototoxity for Solid Tumors
-    itemPercent : 25%
-    
-  - itemNumber : GW6-
-    itemName :  NIHL
     itemPercent : 25%

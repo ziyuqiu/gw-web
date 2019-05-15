@@ -57,13 +57,13 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-140259455-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/Blurred_arc_day.png"
+    bgImage = "images/slider/Arch_day.jpeg"
     logo = "images/logos/logo.png"
     icon = "tf-ion-play"
     heading = "Gateway Biotech"

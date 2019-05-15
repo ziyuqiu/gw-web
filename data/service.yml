@@ -10,11 +10,11 @@ serviceItem :
     title : New Drug Development
     content : Discovering new product formulations that fine-tune drug delivery to the ear.
        
-  - icon : tf-genius
+  - icon : tf-target3
     title : Targeted Delivery
     content : Researching new Adeno-Associated Virus (AAV)-based tools for novel gene therapy against hearing loss.
         
  
-  - icon : tf-target3
+  - icon : tf-genius
     title : New Detection Methods
     content : Utilizing Artificial Intelligence (AI) technology to create innovative methods to detect early signs of hearing disorders.
