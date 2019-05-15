@@ -1,6 +1,6 @@
 ---
 title: "Noise: The not-so-silent Health Hazard"
-date: 2018-06-22 T21:01:57-04:00
+date: 2018-06-22T21:01:57-04:00
 image: images/blog/blog-1.jpg
 arthur: Gateway Biotechnology
 ---

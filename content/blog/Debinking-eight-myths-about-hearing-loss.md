@@ -1,6 +1,6 @@
 ---
 title: "Debinking eight myths about hearing loss"
-date: 2018-07-20 T21:01:57-04:00
+date: 2018-07-20T21:01:57-04:00
 image: images/blog/blog-3.jpg
 arthur: John W. Hawks, Ph.D., CCC-A
 ---
