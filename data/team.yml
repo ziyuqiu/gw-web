@@ -19,7 +19,7 @@ teamMember :
   - image : images/team/Richard_Chole.jpg
     name : Richard Chole, M.D., Ph.D
     designation : Co-founder
-    description : Dr. Chole is a well-known clinician with a specialty in neurotology, and he has also led multiple funded research projects in the Department of Otolaryngology at Washington University in St. Louis. Dr. Chole carried out the first study of age-related hearing loss in the C56BL/6J strain of mice. He has experience in clinical studies and has conducted several randomized clinical trials in the field of hearing disorders. Dr. Chole's clinical interests include otology, neurotology, reconstruction of the middle ear, petrous apicitis, otosclerosis, cholesteatoma, Meniere's disease, cochlear implants and bone-anchored hearing aids.
+    description : Dr. Chole is a well-known clinician with a specialty in neurotology, and he has also led multiple funded research projects in the Department of Otolaryngology at Washington University in St. Louis. Dr. Chole carried out the first study of age-related hearing loss in the C57BL/6J strain of mice. He has experience in clinical studies and has conducted several randomized clinical trials in the field of hearing disorders. Dr. Chole's clinical interests include otology, neurotology, reconstruction of the middle ear, petrous apicitis, otosclerosis, cholesteatoma, Meniere's disease, cochlear implants and bone-anchored hearing aids.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
