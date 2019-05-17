@@ -1,7 +1,7 @@
 baseURL = "https://ziyuqiu.github.io/gw-web/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Gateway Biotechnology Inc."
+title = "Gateway Biotechnology, Inc."
 theme = "meghna-hugo"
 publishDir = "docs"
 
@@ -66,7 +66,7 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/arch-light.jpg"
     logo = "images/logos/logo.png"
     icon = "tf-ion-play"
-    heading = "Gateway Biotechnology, Inc."
+    heading = "Gateway Biotechnology"
     content= "Science-based Solutions to Hearing Disorders"
     btn = true
     btnText="Learn More"

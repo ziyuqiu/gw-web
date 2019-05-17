@@ -2,7 +2,7 @@ enable : true
 heading : Our
 headingSpan : Strategy
 serviceItem :
-  - icon : tf-globe
+  - icon : tf-ion-erlenmeyer-flask
     title : Drug Repurposing
     content : Developing  drug candidates with proven safety records make us time-efficient and cost-effective.
 
@@ -15,6 +15,6 @@ serviceItem :
     content : Researching new Adeno-Associated Virus (AAV)-based tools to target cells of the inner ear to fight against hearing loss.
         
  
-  - icon : tf-genius
+  - icon : tf-ion-android-compass
     title : New Detection Methods
     content : Utilizing Artificial Intelligence (AI) technology to create innovative methods to detect early signs of hearing disorders.
