@@ -6,15 +6,15 @@ content : We have developed animal model systems for pre-clinical trials of drug
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : GW1-
-    itemName :  prevent NIHL
+    itemName :  Prevent NIHL
     itemPercent : 75%
     
   - itemNumber : GW1+GW2-
-    itemName :  prevent NIHL
+    itemName :  Prevent NIHL
     itemPercent : 48%
     
   - itemNumber : GW3-
-    itemName :  prevent NIHL
+    itemName :  Prevent NIHL
 
     itemPercent : 48%
     
