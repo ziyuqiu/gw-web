@@ -70,7 +70,7 @@ custom_css = ["css/custom.css"]
     content= "Science-based Solutions to Hearing Disorders"
     btn = true
     btnText="Learn More"
-    btnURL="#services"
+    btnURL="#about"
 
     # call to action
     [params.cta]

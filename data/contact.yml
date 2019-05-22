@@ -2,7 +2,7 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : We are actively seeking for partnership and investment opprotunities. Send us a message if you are interested!
+content : We are actively seeking partnerships and investment opportunities. Send us a message if you are interested!
 enable_maps : false
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
