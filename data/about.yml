@@ -3,13 +3,13 @@ heading : About
 headingSpan : Us
 aboutItem : 
 - icon : tf-ion-ios-people
-  title : 36 Million
-  content : People in the U.S. are living with hearing disorders
+  title : 73 Million
+  content : People in the US are living with NIHL and tinnitus
 
 - icon : tf-ion-social-usd
-  title : $ 423 Million
-  content : Potential U.S. market for treatment of noise-induced hearing loss (NIHL) alone
+  title : $ 1.3 Billion
+  content : Potential market for NIHL and tinnitus in the US
 
 - icon : tf-tools-2
   title : Zero
-  content : Effective therapies or FDA-approved drugs for hearing disorders
+  content : FDA-approved drugs for NIHL or tinnitus

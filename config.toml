@@ -90,12 +90,12 @@ custom_css = ["css/custom.css"]
         count = "2"
 
         [[params.counter.counterItem]]
-        title = "Published Papers"
+        title = "Papers Published"
         icon = "tf-ion-archive"
         count = "5"
 
         [[params.counter.counterItem]]
-        title = "SBIR/STTR Grants"
+        title = "SBIR/STTR Grants Received"
         icon = "tf-ion-ribbon-b"
         count = "7"
 

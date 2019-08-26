@@ -5,19 +5,23 @@ title : Robust pipeline for science-based solutions to hearing disorders
 content : We have developed animal model systems for pre-clinical trials of drug candidates and have advanced our leading drug candidate to a clinical Phase II trial with the US Army. NIH-supported research is now enabling us to move additional candidates through our discovery pipeline.
 image : images/about/company-growth.png
 skillItem :
-  - itemNumber : GW1-
+  - itemNumber : GW-101
     itemName :  Prevent NIHL
     itemPercent : 75%
     
-  - itemNumber : GW1+GW2-
-    itemName :  Prevent NIHL
+  - itemNumber : GW-102
+    itemName :  Prevent & Treat NIHL
     itemPercent : 48%
     
-  - itemNumber : GW3-
-    itemName :  Prevent NIHL
+  - itemNumber : GW-103
+    itemName :  Treat NIHL
 
     itemPercent : 48%
     
-  - itemNumber : GW3-
-    itemName :  Ototoxity for Solid Tumors
-    itemPercent : 25%
+  - itemNumber : GW-201
+    itemName :  Treat Tinnitus
+    itemPercent : 48%
+
+  - itemNumber : GW-301
+    itemName :  Prevent Cisplatin Ototoxity
+    itemPercent : 48%
